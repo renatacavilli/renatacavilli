@@ -33,14 +33,11 @@ public data, and code that anyone can reproduce.
 | Repository | What it is |
 |---|---|
 | [spurious-correlation](https://github.com/renatacavilli/spurious-correlation) | World avocado production and the S&P 500 have a correlation of 0.98 over 64 years. Real public data and five tests showing why that number means nothing. |
+| [inspection-paradox](https://github.com/renatacavilli/inspection-paradox) | Why your friends have more friends than you do, and why an S&P 500 drawdown lasts 54 days on average but 8.5 years for the day you land in. The inspection paradox on Facebook, three other networks and a century of market data. |
 
 ## Background
 
 - **BSc in Mathematics with a minor in Economics**, Universitat de Barcelona (expected June 2027).
-  Highest distinction (Matrícula d'Honor) in Game Theory, Microeconomics II and Mathematics
-  of Financial Operations.
-- **Bachelor's thesis** on stochastic dynamical systems applied to regime changes in
-  financial markets.
 - **Tools**: Python (NumPy, pandas, SciPy, statsmodels, scikit-learn), C, LaTeX, Git.
 
 ## Contact
